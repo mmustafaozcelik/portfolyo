@@ -11,7 +11,7 @@ function AppContact() {
                 <Row gutter={[32, 16]}>
                     <Col span={6} >
                         <a href="mailto:mustafa7944@gmail.com"> 
-                        <Button type="primary">E-posta Gönder</Button>
+                        <Button type="primary">E-posta</Button>
                         </a>
                         
                     </Col >
